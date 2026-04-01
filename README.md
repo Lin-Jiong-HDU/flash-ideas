@@ -1,1 +1,2 @@
 # flash-ideas
+## Adaptation & Resilience
